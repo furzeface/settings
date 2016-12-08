@@ -1,0 +1,32 @@
+// Place your settings in this file to overwrite the default settings
+{
+    "editor.wrappingColumn": 0,
+    "editor.wordWrap": true,
+    "editor.formatOnType": true,
+    "editor.cursorBlinking": "smooth",
+    "editor.fontLigatures": true,
+
+    "window.reopenFolders": "all",
+
+    "files.exclude": {
+        "**/.git": true,
+        "**/.DS_Store": true,
+        "**/node_moules": true,
+        "**/bower_components": true
+    },
+
+    "explorer.openEditors.visible": 0,
+
+    "search.exclude": {
+        "**/node_moules": true,
+        "**/bower_components": true,
+        "**/coverage": true
+    },
+
+    "git.enabled": false,
+
+    "html.format.wrapLineLength": 0,
+    "html.format.endWithNewline": true,
+
+    "extensions.autoUpdate": true
+}
