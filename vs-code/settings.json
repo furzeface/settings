@@ -1,32 +1,53 @@
 // Place your settings in this file to overwrite the default settings
 {
-    "editor.wrappingColumn": 0,
-    "editor.wordWrap": true,
-    "editor.formatOnType": true,
-    "editor.cursorBlinking": "smooth",
-    "editor.fontLigatures": true,
+	"editor.cursorBlinking": "smooth",
+	"editor.formatOnType": true,
+	"editor.tabSize": 2,
+	"editor.wordWrap": "on",
 
-    "window.reopenFolders": "all",
+	"eslint.autoFixOnSave": true,
 
-    "files.exclude": {
-        "**/.git": true,
-        "**/.DS_Store": true,
-        "**/node_modules": true,
-        "**/bower_components": true
-    },
+	"explorer.openEditors.visible": 0,
 
-    "explorer.openEditors.visible": 0,
+	"extensions.autoUpdate": true,
 
-    "search.exclude": {
-        "**/node_moules": true,
-        "**/bower_components": true,
-        "**/coverage": true
-    },
+	"files.exclude": {
+		"**/.git": true,
+		"**/.sass-cache": true,
+		"**/.DS_Store": true,
+		"**/node_modules": true,
+		"**/bower_components": true,
+		"**/coverage": true,
+		"**/build": true,
+		"**/dist": true,
+		"www/": true
+	},
 
-    "git.enabled": false,
+	"git.enabled": false,
 
-    "html.format.wrapLineLength": 0,
-    "html.format.endWithNewline": true,
+	"html.format.endWithNewline": true,
+	"html.format.wrapLineLength": 0,
 
-    "extensions.autoUpdate": true
+	"search.exclude": {
+		"**/.git": true,
+		"**/.sass-cache": true,
+		"**/.DS_Store": true,
+		"**/node_modules": true,
+		"**/bower_components": true,
+		"**/coverage": true,
+		"**/build": true,
+		"**/dist": true,
+		"www/": true
+	},
+
+	"typescript.check.tscVersion": false,
+	"typescript.check.workspaceVersion": false,
+
+	"vsicons.dontShowNewVersionMessage": true,
+	"vsicons.projectDetection.autoReload": true,
+
+	"window.reopenFolders": "all",
+	"window.zoomLevel": 0,
+
+	"workbench.welcome.enabled": false
 }
