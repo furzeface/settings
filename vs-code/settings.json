@@ -2,9 +2,12 @@
 {
 	"editor.cursorBlinking": "smooth",
 	"editor.formatOnType": true,
+	"editor.fontSize": 13,	
 	"editor.renderWhitespace": "all",
+	"editor.minimap.enabled": false,
 	"editor.tabSize": 4,
 	"editor.wordWrap": "on",
+	"editor.wordWrapColumn": 80,	
 
 	"eslint.autoFixOnSave": true,
 
