@@ -2,7 +2,8 @@
 {
 	"editor.cursorBlinking": "smooth",
 	"editor.formatOnType": true,
-	"editor.tabSize": 2,
+	"editor.renderWhitespace": "all",
+	"editor.tabSize": 4,
 	"editor.wordWrap": "on",
 
 	"eslint.autoFixOnSave": true,
