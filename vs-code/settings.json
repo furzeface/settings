@@ -27,8 +27,6 @@
 		"www/": true
 	},
 
-	"git.enabled": false,
-
 	"html.format.endWithNewline": true,
 	"html.format.wrapLineLength": 0,
 
