@@ -7,16 +7,13 @@
 	"editor.fontLigatures": true,
 	"editor.renderWhitespace": "all",
 	"editor.minimap.enabled": false,
-	"editor.tabSize": 4,
+	"editor.tabSize": 2,
 	"editor.wordWrap": "on",
-	"editor.wordWrapColumn": 80,	
-
-	"eslint.autoFixOnSave": true,
-
+	"editor.wordWrapColumn": 80,
+	"explorer.confirmDelete": false,
+	"explorer.confirmDragAndDrop": false,
 	"explorer.openEditors.visible": 0,
-
 	"extensions.autoUpdate": true,
-
 	"files.exclude": {
 		"**/.git": true,
 		"**/.sass-cache": true,
@@ -28,10 +25,8 @@
 		"**/dist": true,
 		"www/": true
 	},
-
 	"html.format.endWithNewline": true,
 	"html.format.wrapLineLength": 0,
-
 	"search.exclude": {
 		"**/.git": true,
 		"**/.sass-cache": true,
@@ -43,15 +38,12 @@
 		"**/dist": true,
 		"www/": true
 	},
-
 	"typescript.check.tscVersion": false,
 	"typescript.check.workspaceVersion": false,
-
 	"vsicons.dontShowNewVersionMessage": true,
 	"vsicons.projectDetection.autoReload": true,
-
+	"typescript.updateImportsOnFileMove.enabled": "always",
 	"window.reopenFolders": "all",
 	"window.zoomLevel": 0,
-
 	"workbench.welcome.enabled": false
 }
