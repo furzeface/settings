@@ -2,7 +2,9 @@
 {
 	"editor.cursorBlinking": "smooth",
 	"editor.formatOnType": true,
-	"editor.fontSize": 13,	
+	"editor.fontSize": 14,
+	"editor.fontFamily": "'Fira Code'",
+	"editor.fontLigatures": true,
 	"editor.renderWhitespace": "all",
 	"editor.minimap.enabled": false,
 	"editor.tabSize": 4,
